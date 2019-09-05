@@ -2,7 +2,6 @@
 	"name" : "lsys/fastdfs",
 	"type" : "library",
 	"license" : "Apache-2.0",
-
 	"description" : "lsys module fastdfs",
 	"autoload" : {
 		"psr-4" : {
